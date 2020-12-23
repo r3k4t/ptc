@@ -1,5 +1,5 @@
 
-[![Perl](https://img.shields.io/badge/Perl-red.svg)](https://metacpan.org/release/perl/)
+[![Perl](https://img.shields.io/badge/Perl-5-red.svg)](https://metacpan.org/release/perl/)
 [![OS](https://img.shields.io/badge/Tested%20On-Linux-red.svg)](https://en.wikipedia.org/wiki/Linux)
 
 # PTC
