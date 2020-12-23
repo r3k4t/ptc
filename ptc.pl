@@ -1,0 +1,11 @@
+use feature "say";
+say "............................................";
+say "..................PTC.......................";
+say ".....Author : Rahat Khan Tusar(RKT).........";
+say ".....Github : https://github.com/r3k4t......";
+say "............................................";
+$time = localtime(time);
+print "$time\n";
+say "............................................";
+$time =gmtime(time);
+quit;
