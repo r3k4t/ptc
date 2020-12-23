@@ -1,6 +1,6 @@
 
 [![Perl](https://img.shields.io/badge/Perl-5-orange.svg)](https://metacpan.org/release/perl/)
-[![OS](https://img.shields.io/badge/Tested%20On-Linux-orang.svg)](https://en.wikipedia.org/wiki/Linux)
+[![OS](https://img.shields.io/badge/Tested%20On-Linux-orange.svg)](https://en.wikipedia.org/wiki/Linux)
 
 # PTC
 
