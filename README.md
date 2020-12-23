@@ -19,8 +19,8 @@ PTC is a Perl Time Checker Tool.Its build on perl program.
 ### Terminal Command ###
 
 + git clone https://github.com/r3k4t/ptc.git
-+ cd asubscan
-+ sudo python3 asubscan.py -h
++ cd ptc
++ sudo perl ptc.pl
 
 
 
