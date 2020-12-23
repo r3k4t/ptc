@@ -1,3 +1,7 @@
+
+[![perl](https://img.shields.io/badge/Perl-red.svg)](https://metacpan.org/release/perl/)
+[![OS](https://img.shields.io/badge/Tested%20On-Linux-red.svg)](https://en.wikipedia.org/wiki/Linux)
+
 <h3>PTC</h3>
 
 <h6>Author : RKT</h6>
